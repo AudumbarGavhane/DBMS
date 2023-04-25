@@ -1,8 +1,8 @@
-show databases;
-show tables;
-use test1;
+-- show databases;
+-- show tables;
+-- use test1;
 
-select * from cust_vehicle;
+-- select * from cust_vehicle;
 
 
 
@@ -14,7 +14,7 @@ CREATE TABLE vehicle (
     `desc` VARCHAR(100)
 );
 
-select * from vehicle;
+-- select * from vehicle;
 
 
 -- Customer table:
